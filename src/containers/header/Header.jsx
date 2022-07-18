@@ -10,7 +10,7 @@ const Header = () => {
                 <p>When realizing the spontaneous congruence of machine learning and AI, you can realize the potential of modern development strategies.</p>
 
                 <div className='gpt3__header-content__input'>
-                    <input type="email" placeholder='your email address' />
+                    <input type="email" placeholder='enter email address' />
                     <button type='buttom'>Get Started</button>
                 </div>
                 <div className='gpt3__header-content__people'>
